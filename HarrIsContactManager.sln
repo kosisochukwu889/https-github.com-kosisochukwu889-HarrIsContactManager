@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarrisContactManager", "HarrIsContactManager\HarrisContactManager.csproj", "{2CC1C47B-7D36-433F-8C41-54433C555BF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC1C47B-7D36-433F-8C41-54433C555BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC1C47B-7D36-433F-8C41-54433C555BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC1C47B-7D36-433F-8C41-54433C555BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC1C47B-7D36-433F-8C41-54433C555BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA30D607-0CBB-46CE-83F8-2CC33F4B53B0}
+	EndGlobalSection
+EndGlobal
